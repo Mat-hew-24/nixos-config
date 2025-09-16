@@ -3,7 +3,7 @@
 This repository contains an automated installer script for setting up a personalized NixOS configuration using Nix flakes.
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23ffffff&size=32&center=true&vCenter=true&width=600&height=50&lines=Credits%20%3D%3E%20Ibinu" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23ffffff&size=32&center=true&vCenter=true&width=600&height=50&lines=Shoutout to%20%3D%3E%20Ibinu" alt="Headline" />
   <br>
   <a href="https://github.com/ChillzonToast">
   <img src="https://img.shields.io/badge/ChillzonToast-black?logo=github" alt="GitHub Profile" width="150" />
