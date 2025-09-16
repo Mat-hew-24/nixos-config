@@ -2,6 +2,20 @@
 
 This repository contains an automated installer script for setting up a personalized NixOS configuration using Nix flakes.
 
+<div style="font-style: italic; font-size: 20px;">
+  Credits ⇒ 
+  <a href="https://github.com/ChillzonToast/" 
+     style="color:#ffD700; text-decoration: none; font-weight: bold;">
+     ChillzonToast
+  </a>
+</div>
+
+## Screenshots
+
+<img src="./images/2025-09-16-212804_hyprshot.png">
+&nbsp;
+<img src="./images/2025-09-16-212816_hyprshot.png">
+
 ## Overview
 
 The installer script (`install.lua`) automates the process of:

@@ -20,6 +20,8 @@ print("Username and email updated in flake .nix files.")
 
 -- Step 7: Apply NixOS configuration via flake
 print("Applying NixOS configuration from flake...")
+os.execute(string.format("rm -f %s/.gitignore", flake_folder))
+os.execute(string.format("git -C %s add .", flake_folder))
 os.execute(string.format("sudo nixos-rebuild switch --flake %s", flake_folder))
 
 print("Done! Your nixos-config flake is now updated with user's hardware config.")
