@@ -135,8 +135,10 @@
   environment.systemPackages = with pkgs; [
     git
     vim
+    tdf
     wget
     foot
+    bluetui
     micro
     gedit
     vscode
@@ -166,6 +168,9 @@
 	blueman
 	spicetify-cli
 	spotify
+	efibootmgr
+	yt-dlp
+	youtube-tui
   ];
 
   fonts.fontconfig.enable = true;

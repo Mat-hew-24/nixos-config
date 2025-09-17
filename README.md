@@ -15,9 +15,16 @@ This repository contains an automated installer script for setting up a personal
 
 ## Screenshots
 
+### Rofi
 <img src="./images/2025-09-16-212804_hyprshot.png">
 &nbsp;
+
+### Zsh+Kitty
 <img src="./images/2025-09-16-212816_hyprshot.png">
+&nbsp;
+
+### Dunst
+<img src="./images/dunst.png">
 
 ## Overview
 
@@ -159,3 +166,7 @@ If you prefer to configure manually:
 ## Support
 
 For issues or questions, please check the configuration files and ensure all dependencies are properly installed.
+
+### Any Contributions are appreciated
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%23ff00ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Go%20Flakey...." alt="Headline" />
